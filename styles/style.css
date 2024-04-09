@@ -1,5 +1,5 @@
 .panda-bg-info {
-    background-color: #FEEAE9;
+    background-color: #136b6b;
 }
 
 .btn-buy-now {
@@ -11,7 +11,7 @@
     font-weight: 600;
     text-transform: uppercase;
     margin-top: 16px;
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    background-image: linear-gradient(to bottom, #07bbf2 0%, #252626 100%);
     color: #fff;
     border: none;
     border-radius: 6px;
@@ -19,7 +19,7 @@
 }
 
 .price {
-    color: #FF136F;
+    color: #1b1c1c;
     margin-top: 20px;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .bag {
-    background-image: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    background-image: linear-gradient(180deg, #252626 -0.01%, #07bbf2 99.99%);
 }
 
 .shoes {
