@@ -40,6 +40,21 @@
     padding: 10px 0 20px;
 }
 
+.card-img-top {
+    height: 350px;
+}
+
+/* Remove o sublinhado azul dos links */
+a {
+    text-decoration: none;
+}
+
+/* Remove o sublinhado azul dos links ao serem clicados */
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+  
 #shoes {
     margin-top: 30px;
 }
@@ -53,3 +68,6 @@ small {
     font-size: 80%;
     font-weight: 400;
 }
+
+
+  
