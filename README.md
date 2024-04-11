@@ -22,19 +22,6 @@ Para começar com o JawsWaves-commerce, siga estes passos:
 2. Navegue até a pasta do projeto: **`cd JawsWaves-commerce`**
 3. Abra o arquivo **`index.html`** em seu navegador da web preferido.
 
-## Estrutura de Pastas
-```css
-JawsWaves-commerce/
-├── images/
-│   ├── (todos os arquivos de imagem)
-├── styles/
-│   ├── (style.css)
-├── index.html
-├── LICENSE.md
-├── jaws.png (imagem completa da página inicial)
-└── README.md
-
-
 ## Diretrizes de Contribuição
 Este projeto é desenvolvido principalmente para uso pessoal, e contribuições não são esperadas. No entanto, se você tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
@@ -47,3 +34,16 @@ Obrigado pelo seu interesse no JawsWaves-commerce! Seu apoio e contribuições s
 
 
 Se precisar de mais alguma coisa, estou à disposição!
+
+## Estrutura de Pastas
+```css
+JawsWaves-commerce/
+├── images/
+│   ├── (todos os arquivos de imagem)
+├── styles/
+│   ├── (style.css)
+├── index.html
+├── LICENSE.md
+├── jaws.png (imagem completa da página inicial)
+└── README.md
+
