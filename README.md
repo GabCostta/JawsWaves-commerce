@@ -1,48 +1,49 @@
-# panda-commerce
-Panda Commerce is a simple and beginner-level eCommerce landing page design project. It showcases a responsive, providing a seamless experience across different devices and screen sizes and clean landing page developed using HTML, CSS, Bootstrap, and Font Awesome for icons. The project aims to provide a foundation for those starting out in web development and offers a well-organized code structure. [preview👁️‍🗨️](https://panda-commerce-2023.netlify.app/)
+# JawsWaves-commerce
+JawsWaves-commerce é um projeto simples de design de página inicial de comércio eletrônico. Ele apresenta um design responsivo que garante uma experiência perfeita em diversos dispositivos e tamanhos de tela. A página inicial é criada utilizando HTML, CSS, Bootstrap e Font Awesome para ícones. Este projeto serve como um ponto de partida adequado para aqueles que estão começando no desenvolvimento web, oferecendo uma estrutura de código bem organizada. [Visualização👁️‍🗨️](https://jaws-waves-commerce.vercel.app/)
 
-## Features
-- Simple and beginner-level e-commerce landing page design
-- Responsive layout that adapts to different screen sizes and devices
-- Clean and organized codebase for easy understanding and customization
-- Utilizes Bootstrap framework for responsive design components and layout
-- Integration of Font Awesome for scalable and customizable icons
+## Recursos
+- Design simples de página inicial de comércio eletrônico
+- Layout responsivo para exibição ideal em diferentes dispositivos
+- Base de código bem organizada para fácil compreensão e personalização
+- Utiliza o framework Bootstrap para componentes e layout responsivos
+- Integração do Font Awesome para ícones escaláveis e personalizáveis
 
-## Technologies Used
-The following technologies were used in the development of this project:
+## Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 - HTML
 - CSS
 - Bootstrap
 - Font Awesome
 
-## Getting Started
-To get started with Panda Commerce, follow these steps:
+## Como Começar
+Para começar com o JawsWaves-commerce, siga estes passos:
 
-1. Clone the repository: **`https://github.com/MuzakkirHossainMinhaz/panda-commerce.git`**
-2. Open the project folder: **`cd panda-commerce`**
-3. Open the **`index.html`** file in your preferred web browser.
+1. Clone o repositório: **`https://github.com/GabCostta/JawsWaves-commerce.git`**
+2. Navegue até a pasta do projeto: **`cd JawsWaves-commerce`**
+3. Abra o arquivo **`index.html`** em seu navegador da web preferido.
 
-## Folder Structure
-``` css
-panda-commerce/
+## Estrutura de Pastas
+```css
+JawsWaves-commerce/
 ├── images/
-│   ├── (all image files)
+│   ├── (todos os arquivos de imagem)
 ├── styles/
 │   ├── (style.css)
 ├── index.html
 ├── LICENSE.md
-├── panda.png (full webpage demo image)
+├── jaws.png (imagem completa da página inicial)
 └── README.md
-```
-
-## Contribution Guidelines
-This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgements
-- The Bootstrap framework and Font Awesome library were used to enhance the responsiveness and visual appeal of the landing page.
 
 
-Thank you for your interest in Panda Commerce! We appreciate your support and contributions.
+## Diretrizes de Contribuição
+Este projeto é desenvolvido principalmente para uso pessoal, e contribuições não são esperadas. No entanto, se você tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+JawsWaves-commerce é licenciado sob a Licença MIT. Você é bem-vindo para usar, modificar e distribuir o código de acordo com os termos da licença.
+
+## Agradecimentos
+O framework Bootstrap e a biblioteca Font Awesome foram fundamentais para melhorar a responsividade e o apelo visual da página inicial.
+Obrigado pelo seu interesse no JawsWaves-commerce! Seu apoio e contribuições são muito apreciados.
+
+
+Se precisar de mais alguma coisa, estou à disposição!
